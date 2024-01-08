@@ -1,0 +1,21 @@
+.festa-de-natal{
+    border: 1px solid #000;
+    width: auto;
+    padding: 5px;
+    display: flex;
+    column-gap: 5px;
+    justify-content:left;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    
+
+    
+    
+
+}
+.festa{
+    border: 2px solid #000;
+    width: auto;
+    padding: 5px;
+    text-align: center;
+}
